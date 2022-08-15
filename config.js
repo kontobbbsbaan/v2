@@ -5,12 +5,12 @@
 // RECODE BY OSCAR OFC
 
 //=============『 Utama 』================== //
-global.owner = ['6285850539404','79609055704'] 
+global.owner = ['6283845409710','6283845409710'] 
 global.mods = [''] 
-global.prems = ['6285850539404'] 
+global.prems = ['6283845409710'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ᴹᴿ᭄ Jarot offcঔৣ꧂'
+global.nameowner = '𝙆 𝙄 𝘼 𝙉'
 global.numberowner = '6285850539404','79609055704',
 global.instagram = 'https://instagram.com/Jarotr_'
 global.github = 'https://github.com/Alpiii22'
@@ -24,7 +24,7 @@ global.pulsa = '085850539404'
 global.gopay = '085850539404'
 
 //=============『 Info Bot 』=================//
-global.namebot = '❋ཻུ۪۪⸙Darkbotz-MD⳹ ❋ཻུ۪۪'
+global.namebot = '❋ཻུ۪۪⸙ ིྀও𝐌𝐎𝐃𝐙 𝐁𝐎𝐓𝐙⳹ ❋ཻུ۪۪'
 global.gc = 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
 global.web = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://instagram.com/Jarotr_'
