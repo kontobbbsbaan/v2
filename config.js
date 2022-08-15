@@ -44,10 +44,10 @@ global.fotonya8 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //foto ses
 global.donasi = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //ganti pakai poto payment atau apa
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '❋ཻུ۪۪⸙Dark-MD⳹ ❋ཻུ۪۪'
+global.wm = '❋ཻུ۪۪⸙ ིྀও𝐌𝐎𝐃𝐙 𝐁𝐎𝐓𝐙⳹ ❋ཻུ۪۪'
 global.watermark = wm
-global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜ𝐉𝐚𝐫𝐨𝐭_𝙊𝙛𝙛cོ1꧅'
-global.wm3 = 'ᯤ 𝐉𝐚𝐫𝐨𝐭 𝙾𝙵𝙲'
+global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜKianganz1꧅'
+global.wm3 = 'ᯤ 𝚔𝚒𝚊𝚗 ganzೄྀ'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -57,8 +57,8 @@ global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'Darkbotz'
-global.author = '@Jarot'
+global.packname = ''
+global.author = '@Kianganz1'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
