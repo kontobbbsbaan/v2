@@ -43,7 +43,7 @@ const defaultMenu = {
   header: '╭─❑ 〔 %category 〕 ❑─\n┃',
   body: '┃❑ %cmd %islimit %isPremium',
   footer: '┃\n╰────────❑\n', 
-  footerText: 'Powered by Jarot',
+  footerText: 'Powered by kian',
   after: `
 ╭──〔  THANKS TO  〕─⬣
 ⫹⫺ Allah SWT
@@ -305,7 +305,7 @@ let menuu = `
 const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fromObject({
         listMessage: {
             "title": `*${ucapan()}, ${name}*`.trim(),
-                        "description": `©️ *Oscarbotz-MD*`.trim(),
+                        "description": `©️ *kian*`.trim(),
                         "footerText": "Jika menemukan bug, error atau kesulitan dalam penggunaan silahkan laporkan/tanyakan kepada owner.",
                         "buttonText": "Click Here",
             listType: 1,
@@ -527,28 +527,14 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
             hydratedButtons: [{
             urlButton: {
                displayText: '🔮YOUTUBE🔮',
-               url: 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
+               url: ''
              }
 
            },
              {
-             urlButton: {
-               displayText: '🎮GROUP BOT🎮', 
-               url: 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
-             }
-
-           },
-               {
              quickReplyButton: {
                displayText: '🧸 Owner',
                id: '.owner',
-             }
-
-           },
-               {
-             quickReplyButton: {
-        displayText: '💳 Sewa',
-               id: '.sewaoscar',
              }
 
            },
@@ -575,7 +561,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
 handler.help = ['oscar']
 handler.tags = ['main']
 handler.command = /^(KRIZ|Jarotlist|zifa|\?)$/i
-handler.register = true
+handler.register = false
 handler.owner = false
 handler.mods = false
 handler.premium = false
